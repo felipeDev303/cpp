@@ -93,4 +93,4 @@ Este comentario de varia líneas puede abarcar varias líneas de texto, proporci
 
 3. Práctica: La práctica regular es esencial para consolidar tu comprensión de estos fundamentos. Es esencial para construir una base sólida y afrontar tareas de programación más complejas.
 
-4. Aprende de las guías de estilo: Desarrollar hábitos de programación limpios desde temprano es clave. Consulta la Guía de ![Estilo de Google C++](https://google.github.io/styleguide/cppguide.html) para conocer las mejores prácticas estándar de la industria.
+4. Aprende de las guías de estilo: Desarrollar hábitos de programación limpios desde temprano es clave. Consulta la Guía de [Estilo de Google C++](https://google.github.io/styleguide/cppguide.html) para conocer las mejores prácticas estándar de la industria.

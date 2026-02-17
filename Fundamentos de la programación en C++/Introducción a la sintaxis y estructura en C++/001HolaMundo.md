@@ -36,7 +36,7 @@ La línea #include <iostream> indica al compilador que incluya la biblioteca est
 
 Todo programa en C++ gira en torno a la función principal. Actúa como punto de entrada, donde el programa comienza su ejecución. Sin ella, tu aplicación en C++ permanece inactiva.
 
-[int main()](img/intmain.png)
+![int main()](../../img/intmain.png)
 
 #### Operación de salida (std::cout << "¡Hola, mundo!" << std::endl;):
 
@@ -66,7 +66,7 @@ Escribir un programa en C++ es un viaje paso a paso desde el código hasta la ej
 
     4. Ejecución: Finalmente, el programa ejecutable se ejecuta, realizando las tareas definidas en el código y produciendo la salida en pantalla.
 
-[Ciclo de desarrollo](img/devcycle.png)
+![Ciclo de desarrollo](../../img/devcycle.png)
 
 ## Comentarios y organización del código
 

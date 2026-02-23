@@ -174,3 +174,19 @@ int main() {
 ```
 
 Este ejemplo implementa un espacio de nombres, utils, demostrando modularidad y organización.
+
+🤔 Preguntas de reflexión
+¿Cómo mejora la funcionalidad de tus programas el uso de múltiples archivos de encabezado?
+
+¿Por qué es importante un formato adecuado al mostrar información a los usuarios?
+
+¿Cómo podrías ampliar este programa para incluir más componentes interactivos?
+
+¿Cuáles son las ventajas de organizar tu código en componentes lógicos?
+
+🌟 Desafío adicional
+Si te animas, intenta implementar una o más de estas mejoras:
+
+Añade un componente que use funciones matemáticas del encabezado <cmath>
+
+Crea un componente que muestre una animación simple usando bucles y temporización
